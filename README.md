@@ -1,6 +1,6 @@
 # LMS-Demo
 Library Management System
-<b>
+<br>
 Author Name: Sana
-<b>
+<br>
 College: Gvt Polytechnic Vijayapur
